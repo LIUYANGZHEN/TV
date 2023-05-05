@@ -1,3 +1,5 @@
+
+
 {
 //jar
 "spider":"./jar/1.jar;md5;6a2da203aa5bef6e9b67161fb4c21df2",
@@ -323,6 +325,8 @@
 {"name":"爱豆","type":0,"url":"https://jx.aidouer.net/?url="},
 
 {"name":"jx","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
+
+{"name":"B站","type":0,"url":"https://jx.jsonplayer.com/player/?url="},
 
 
 ],
