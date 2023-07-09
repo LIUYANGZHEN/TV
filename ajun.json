@@ -1,9 +1,4 @@
-{
-//{"key":"key_〔资源名称〕","name":"资源名称","type":0,"api":"csp_〔jar内文件名称〕","searchable":1,"quickSearch":1,"filterable":0,"jar":"〔jar文件地址〕","ext":"〔txt json文件地址〕","playUrl":"〔播放解析地址〕","categories":["〔自定义资源列表〕","〔自定义资源列表〕"] },
-"spider":"https://agit.ai/yjl/dcck/raw/branch/master/JRA/1215.jar",
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9hZ2l0LmFpL3lqbC9kY2NrL3Jhdy9icmFuY2gvbWFzdGVyL1pCL3R2LnR4dA=="]}]}],
-"sites":[
-   {
+
             "key": "js豆瓣1",
             "name": "🌈豆瓣热播",
             "type": 3,
