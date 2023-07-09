@@ -25,27 +25,7 @@
       "type":3,"api":"https://notabug.org/qizhen15800/My9394/raw/master/js/lib/drpy.min.js",
       "ext":"https://notabug.org/qizhen15800/My9394/raw/master/js/优酷.js"},
 {"key": "sp_Mgtv","name": "🍋芒果TV","type": 3,"api": "csp_Mgtv","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0},
-{"key": "七夜","name": "🔍阿里|七夜搜","type": 3,"api": "csp_Dovx","searchable": 1,"quickSearch": 1,"filterable": 0,"changeable": 0,"ext": "b4242bebe6f144d3aa6a2cd842ac65aa"},
-
-{"key":"Yisou","name":"🔍阿里|易搜索","type":3,"api":"csp_Yisou","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"b4242bebe6f144d3aa6a2cd842ac65aa"},
-
-{"key":"Zhaozy","name":"🔍阿里|找资源","type":3,"api":"csp_Zhaozy","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"b4242bebe6f144d3aa6a2cd842ac65aa$$$ygfxz$$$66666"},
-
-{"key":"Upyunso","name":"🔍阿里|云搜索","type":3,"api":"csp_UpYun","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"b4242bebe6f144d3aa6a2cd842ac65aa"},
-
-//{"key":"Alips","name":"🔍阿里|盘搜索","type":3,"api":"csp_PanSou","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"df1a2af97c7e405b8d9bf78951e2c4ff"},
-
-{"key":"PanSearch","name":"🔍阿里|网盘搜","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"filterable":0,"ext":"8258ace56b504539bcf66620364cacf2"},
-
-{"key": "py_cctv_大全","name": "📺央视｜大全","type": 3,"api": "py_cctv_full","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./Py/py_央视大全.py"},
-
-//{"key": "py_cctv_自选","name": "📺央视｜自选","type": 3,"api": "py_cctv","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./Py/py_央视自选.py"},
-
-{"key": "py_cctv_少儿","name": "📺央视｜少儿","type": 3,"api": "py_cctv_full","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./Py/py_央视少儿.py"},
-
-{"key": "py_cctv_企鹅","name": "📺体育｜直播","type": 3,"api": "py_cctv_full","searchable": 0,"quickSearch": 0,"filterable": 1,"ext":"./Py/py_企鹅体育.py"},
-
-{"key": "csp_Yj1211","name": "📺综合｜直播","type": 3,"api": "csp_Yj1211","playerType":1,"searchable": 0,"quickSearch": 0,"filterable": 0},
+{
 
 
 
